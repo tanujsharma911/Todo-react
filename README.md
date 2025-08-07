@@ -1,4 +1,4 @@
-# Simple To-Do React App
+# Simple To-Do React App v2
 
 This is a simple to-do list application built using **React** & **Tailwind CSS**.
 this is not serious project, this to learn git and hosting on git.
