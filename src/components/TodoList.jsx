@@ -30,7 +30,7 @@ function TodoList(props) {
                     onChange={() => toggleMarkFunc()}
                     checked={props.marked}
                 />
-                <input className='w-full focus:outline-none focus:ring-0'
+                <input className='w-full focus:outline-none focus:ring-0 dark:text-gray-100'
                     type="text"
                     value={title}
                     onChange={(e) => setTitle(e.target.value)}
